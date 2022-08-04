@@ -1,6 +1,6 @@
 # Software Testing/QA Test
 
-This is a 2 part test exam to be done as part of the recruitment processes at Net Tech International.
+This is a 2 part test exam to be done as part of the recruitment process at Net Tech International.
 
 The test has a time to completion of **7 days** after the initial email is sent by one of our members.
 
@@ -20,13 +20,13 @@ Here is the scenario and context:
 1. Log into the demo.
 2. Take 2 modules (preferably New Client form and Invoices).
 3. Write a basic test plan for the testing of these 2 modules.
-4. Write at least 10 test cases for these 2 modules.
-5. Determine, based on your expertise and looking at the whole application, at least 10 cases that should be part of regression testing. (This can be just mentioning them, not as a full test-case look and feel).
+4. Write at least 10 test cases for these 2 modules. Meaning 5 test cases each module. 
+5. Determine, based on your expertise and looking at the whole application, at least 10 cases that should be part of regression testing. (This can be just mentioning them, not as a full test-case look and feel format).
 
 #### Bonus Points
 In order for you to get more points on this test, you have the **option** to perform **one or more** of the following additional tasks which would get you **more points** and therefore better chances:
 
-1. Include other modules in the test cases document.
+1. Include other modules in the test cases document (please limit the test cases to 5 per module).
 2. Load and performance testing (be careful with this since it is a third-party app).
 3. Make suggestions on what would you change to the app from both UI and process stand point.
 
@@ -42,9 +42,9 @@ Here is the scenario and context:
 
 #### Requirements
 1. Log into the demo as administrator.
-2. Spot what doesn't look 'right' in the application or that could be improved for a better UI/UX.
+2. Spot what doesn't look 'right' in the application (from the Dashboard section) or that could be improved for a better UI/UX.
 
-Please note that a lot of elements in applications or processes are subjective, but there are UI/UX principles that are based on what's best for the end-user.
+Please note that a lot of elements in applications or processes are subjective, what is good for someone doesn't mean is actually good for the end-user. There are UI/UX principles that are based on what's best for the end-user.
 
 
 ### Submission
