@@ -20,7 +20,7 @@ Here is the scenario and context:
 1. Log into the demo.
 2. Take 2 modules (preferably New Client form and Invoices).
 3. Write a basic test plan for the testing of these 2 modules.
-4. Write at least 10 test cases for these 2 modules. Meaning 5 test cases each module. 
+4. Write at least 6 test cases for these 2 modules. Meaning 3 test cases each module. 
 5. Determine, based on your expertise and looking at the whole application, at least 10 cases that should be part of regression testing. (This can be just mentioning them, not as a full test-case look and feel format).
 
 #### Bonus Points
