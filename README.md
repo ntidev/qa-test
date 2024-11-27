@@ -32,10 +32,10 @@ In order for you to get more points on this test, you have the **option** to per
 
 
 ### Test 2 - Manual
-The test 2 consists of a basic **UI/Process review**.
+The test 2 consists of a basic **UI/Process review from QA perspective**.
 
 Here is the scenario and context:
-- A Product Owner comes to you and asks you to review couple of screens of an application that is up and running and being used by N amount of users. A CRM system.
+- You are a QA, one of the Product Owners wants to pick your brain and ask you to review couple of screens of an application that is up and running and being used by N amount of users. A CRM system.
 - The enhancement is currently in staging. 
 - The latest enhancement was done by the developers, but something looks 'weird' to the Product Owner.
 - The application (for example purposes) to be used is: https://www.espocrm.com/
